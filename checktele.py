@@ -257,7 +257,7 @@ async def _(event):
 ↣ (@{username})
 ┗━━━━━┛
 ┏━━━━━┓
-- By ↣@XTNTXX
+- By ↣@Thefahd
 ┗━━━━━┛
 ●━━━━━━━━●
 
@@ -319,13 +319,13 @@ async def _(event):
                         await event.client.send_message(event.chat_id, f'''
 ●━━━━━━━━●
 ┏━━━━━┓
-- By ↣ @X_K_5
+- By ↣ @y_p_z
 ┗━━━━━┛
 ┏━━━━━┓
 ↣ (@{username})
 ┗━━━━━┛
 ┏━━━━━┓
-- By ↣@XTNTXX
+- By ↣@we_tnt
 ┗━━━━━┛
 ●━━━━━━━━●
 
@@ -361,13 +361,13 @@ async def _(event):
                 await event.client.send_message(event.chat_id, f'''
 ●━━━━━━━━●
 ┏━━━━━┓
-- By ↣ @X_K_5
+- By ↣ @y_p_z
 ┗━━━━━┛
 ┏━━━━━┓
 ↣ (@{username})
 ┗━━━━━┛
 ┏━━━━━┓
-- By ↣@XTNTXX
+- By ↣@we_tnt
 ┗━━━━━┛
 ●━━━━━━━━●
 
